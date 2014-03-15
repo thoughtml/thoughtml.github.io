@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[前端一锅粥]]></title>
+  <title><![CDATA[I'm Lin]]></title>
   <link href="http://thoughtml.github.io/atom.xml" rel="self"/>
   <link href="http://thoughtml.github.io/"/>
-  <updated>2014-03-15T09:16:24-07:00</updated>
+  <updated>2014-03-15T09:42:28-07:00</updated>
   <id>http://thoughtml.github.io/</id>
   <author>
-    <name><![CDATA[iSunday]]></name>
+    <name><![CDATA[anonymous]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Hello,World]]></title>
-    <link href="http://thoughtml.github.io/blog/2014/03/15/hello/"/>
-    <updated>2014-03-15T08:36:27-07:00</updated>
-    <id>http://thoughtml.github.io/blog/2014/03/15/hello</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[Ubuntu环境下搭建Octopress博客]]></title>
+    <link href="http://thoughtml.github.io/blog/2014/03/15/createblog/"/>
+    <updated>2014-03-15T09:24:22-07:00</updated>
+    <id>http://thoughtml.github.io/blog/2014/03/15/createblog</id>
+    <content type="html"><![CDATA[<p>一开始我是打算在windows环境下搭建Octopress博客。
+但出现了许多奇奇怪怪的错误，无奈来到Ubuntu环境下，没想到桌面版的Ubuntu用户体验如此不错。
+我把这一路的搭建过程记录下来，希望能帮助想拥有个人博客的朋友。</p>
 ]]></content>
   </entry>
   
